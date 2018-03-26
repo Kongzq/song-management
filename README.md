@@ -18,3 +18,4 @@
 2. 编辑歌曲信息并保存到leancloud
 3. 上传时loading效果
 
+![gif](https://github.com/Kongzq/song-management/blob/master/GIF.gif)
